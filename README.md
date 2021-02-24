@@ -23,7 +23,7 @@ Things you may want to cover:
 
 * ...
 
-#　テーブル設計
+# テーブル設計
 
 ## usersテーブル
 
